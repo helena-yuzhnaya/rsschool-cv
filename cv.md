@@ -61,6 +61,6 @@ Basic knowledge of:
 *  jQuery;
 *  Ajax
 ### Languages:
-* English- intermeate
+* English- intermediate
 * Polish- elementary
 
