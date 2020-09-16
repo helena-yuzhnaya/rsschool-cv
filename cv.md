@@ -52,3 +52,11 @@ IECMS - institute for energy and computer-integrated management systems.
 
 
 * Master degree
+### Skills:
+Basic knowledge of:
+*  HTML5/CSS3/JavaScript;
+*  CSS-preprocessor LESS;
+*  Avocode;
+*  DOM and events;
+*  jQuery;
+*  Ajax
