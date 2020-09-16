@@ -60,3 +60,7 @@ Basic knowledge of:
 *  DOM and events;
 *  jQuery;
 *  Ajax
+### Languages:
+* English- intermeate
+* Polish- elementary
+
